@@ -1,0 +1,27 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+header {
+  text-align: center;
+  
+}
+
+h1 {
+  margin:20px 0;
+}
+
+.nav-list {
+  text-align: center
+}
+
+.nav-list-item {
+  display :inline-block;
+  margin: 0 20px;
+}
+
+footer {
+
+}
